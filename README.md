@@ -28,7 +28,7 @@ config_dir : configuration directory
 
 The file will override chrome/app/theme/chromium/BRANDING
 
-### BRANDING_<lang>
+### BRANDING_&lt;lang&gt;
 
 Use these language specific branding info for corresponding xtb files
 
