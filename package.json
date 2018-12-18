@@ -1,0 +1,33 @@
+{
+  "name": "rebrand",
+  "version": "1.0.0",
+  "description": "Node.js based chromium devtools for rebranding chromium",
+  "main": "./lib/rebrand.js",
+  "bin": {
+    "rebrand": "./bin/rebrand"
+  },
+  "directories": {
+    "bin": "./bin",
+    "lib": "./lib"
+  },
+  "dependencies": {
+    "tranid": "*"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhsoft88/rebrand.git"
+  },
+  "keywords": [
+    "rebrand",
+    "chromium"
+  ],
+  "author": "zhsoft88",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zhsoft88/rebrand/issues"
+  },
+  "homepage": "https://github.com/zhsoft88/rebrand#readme"
+}
