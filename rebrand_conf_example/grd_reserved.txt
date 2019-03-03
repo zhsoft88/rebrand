@@ -1,0 +1,16 @@
+Chromium OS
+Chrome OS
+Chrome 操作系统
+<ph name="BEGIN_LINK_CHROMIUM" />Chromium
+<ph name="BEGIN_LINK_CHROMIUM" /> Chromium
+<ph name="BEGIN_LINK_CHROMIUM" />„Chromium
+Core Version: Chromium
+内核版本: Chromium
+<ex>Chrome</ex>
+<ex>Google Chrome</ex>
+<ex>A Chrome app</ex>
+Chrome Web Store
+Chrome 网上应用店
+sign in to Chrome
+Sign in to Chrome
+登录 Chrome

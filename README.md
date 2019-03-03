@@ -22,6 +22,10 @@ Arguments:
 config_dir : configuration directory
 ```
 
+```sh
+$ rebrand -c chrome/src rebrand_conf_example
+```
+
 ## In config_dir
 
 ### BRANDING

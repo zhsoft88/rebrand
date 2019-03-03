@@ -1,0 +1,31 @@
+`"Chromium"` = `"${product_fullname}"`
+`"Chromium Safe Storage"` = `"${product_fullname} Safe Storage"`
+`"Chromium Binaries"` = `"${product_fullname} Binaries"`
+`"ChromiumHTM"` = `"${product_fullname}HTM"`
+`"Chromium HTML Document"` = `"${product_fullname} HTML Document"`
+`L"Software\\Chromium"` = `L"Software\\${product_fullname}"`
+
+file chrome/install_static/chromium_install_modes.cc
+
+`{7D2B3E1D-D096-4594-9D8F-A6667F12E0AC}`=`{5C3E23B2-2D5B-499D-9AF1-EA58E7AA29EB}`
+`{A2DF06F9-A21A-44A8-8A99-8B9C84F29160}`=`{4D913372-6431-4574-AAEB-1EC067396D70}`
+`        {0x635EFA6F,
+         0x08D6,
+         0x4EC9,
+         {0xBD, 0x14, 0x8A, 0x0F, 0xDE, 0x97, 0x51,
+          0x59}},  // Toast Activator CLSID.`
+=
+`        {0x547B03B5,
+         0x96DE,
+         0x44BC,
+         {0x97, 0x54, 0x91, 0x77, 0x43, 0x89, 0x7D,
+         0x2C}},  // Toast Activator CLSID.`
+`        {0xD133B120,
+         0x6DB4,
+         0x4D6B,
+         {0x8B, 0xFE, 0x83, 0xBF, 0x8C, 0xA1, 0xB1, 0xB0}},  // Elevator CLSID.`
+=
+`        {0x2D3891B4,
+         0xDC19,
+         0x4931,
+         {0xB8, 0x84, 0x01, 0x03, 0x9A, 0x94, 0x8B, 0xEB}},  // Elevator CLSID.`

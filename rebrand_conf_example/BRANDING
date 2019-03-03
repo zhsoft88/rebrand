@@ -1,0 +1,9 @@
+COMPANY_FULLNAME=The Twinkstar Authors
+COMPANY_SHORTNAME=The Twinkstar Authors
+PRODUCT_FULLNAME=Twinkstar Browser
+PRODUCT_SHORTNAME=Twinkstar Browser
+PRODUCT_INSTALLER_FULLNAME=Twinkstar Installer
+PRODUCT_INSTALLER_SHORTNAME=Twinkstar Installer
+COPYRIGHT=Copyright 2019 The Twinkstar Authors. All rights reserved.
+MAC_BUNDLE_ID=com.twinkstar.Twinkstar
+MAC_CREATOR_CODE=Ts88

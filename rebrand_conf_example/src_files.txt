@@ -1,0 +1,7 @@
+chrome/common/chrome_constants.cc
+chrome/common/chrome_paths_mac.mm
+chrome/common/mac/app_mode_chrome_locator.mm
+chrome/browser/profile_resetter/triggered_profile_resetter_win.cc
+components/os_crypt/keychain_password_mac.mm
+chrome/installer/util/util_constants.cc
+chrome/installer/util/browser_distribution.cc
