@@ -22,6 +22,8 @@ Arguments:
 config_dir : configuration directory
 ```
 
+[rebrand config example](https://github.com/zhsoft88/rebrand/tree/master/rebrand_conf_example)
+
 ```sh
 $ rebrand -c chrome/src rebrand_conf_example
 ```
